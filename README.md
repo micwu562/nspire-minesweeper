@@ -2,12 +2,12 @@
 
 ![Preview Photo](calc.png?raw=true)
 
-Minesweeper for the Ti-Nspire! Written in Lua using the student software Script Editor. Upload `minesweeper.tns` to your calculator to begin playing the game yourself.
+Minesweeper for the Ti-Nspire! Written in Lua using the student software Script Editor. _Upload `minesweeper.tns` to your calculator to begin playing the game yourself._
 
 Features...
 
 - Custom board sizes (albeit capped)
-- Chording
+- [Chording](http://www.minesweeper.info/wiki/Chord)
 - Top 3 times for standard difficulties
 
 ---
@@ -18,15 +18,15 @@ Features...
 
 ### General
 
-| Action            | Keybind | Notes                                  |
-| ----------------- | ------- | -------------------------------------- |
-| Open / close menu | `M`     | Enter / arrow keys / mouse to navigate |
-| Restart game      | `Del`   | Can also click on the smiley face      |
+| Action            | Key   | Notes                                  |
+| :---------------- | :---- | :------------------------------------- |
+| Open / close menu | `M`   | Enter / arrow keys / mouse to navigate |
+| Restart game      | `Del` | Can also click on the smiley face      |
 
 ### Gameplay
 
-| Action      | Keybind               | Notes                           |
-| ----------- | --------------------- | ------------------------------- |
+| Action      | Key                   | Notes                           |
+| :---------- | :-------------------- | :------------------------------ |
 | Move cursor | all digits except `5` | Can also click on tiles to move |
 | Flag        | `+ \| -`              | Flag a number to chord.         |
 | Scroll Up   | `^ \| x²`             |                                 |
@@ -34,10 +34,10 @@ Features...
 
 ### Quick Flag
 
-| Action                 | Keybind | Notes |
-| ---------------------- | ------- | ----- |
-| Toggle quick flag mode | `.`     |       |
-| Open/flag/chord        | `5`     |       |
+| Action                 | Key | Notes |
+| :--------------------- | :-- | :---- |
+| Toggle quick flag mode | `.` |       |
+| Open/flag/chord        | `5` |       |
 
 # Source
 
