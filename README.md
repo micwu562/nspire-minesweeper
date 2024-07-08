@@ -4,6 +4,8 @@
 
 Minesweeper for the Ti-Nspire! Written in Lua using the student software Script Editor. Upload `minesweeper.tns` to your calculator to begin playing the game yourself.
 
+Features...
+
 - Custom board sizes (albeit capped)
 - Chording
 - Top 3 times for standard difficulties
@@ -12,7 +14,7 @@ Minesweeper for the Ti-Nspire! Written in Lua using the student software Script 
 
 ## Controls
 
-(Controls are listed on page 1.2 of the document)
+(You can find controls listed on page 1.2 of the document)
 
 ### General
 
