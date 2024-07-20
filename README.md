@@ -41,4 +41,4 @@ Features...
 
 # Source
 
-`source.lua` contains the lua script for the game. It is unfortunately not enough to reproduce the entire document, since image resources need to be imported too. I lost the original images; at some point I may try to recover or recreate them.
+`source.lua` contains the lua script for the game, and the `resources/` folder contains all image resources. When uploading image resources, the resource name should match the file name (without the `.png`)
