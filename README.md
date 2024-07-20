@@ -2,7 +2,7 @@
 
 ![Preview Photo](calc.png?raw=true)
 
-Minesweeper for the Ti-Nspire! Written in Lua using the student software Script Editor. _Upload `minesweeper.tns` to your calculator to begin playing the game yourself._
+Minesweeper for the Ti-Nspire! Written in Lua using the student software Script Editor. **Upload `minesweeper.tns` to your calculator to begin playing the game yourself.**
 
 Features...
 
